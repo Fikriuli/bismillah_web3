@@ -1,0 +1,80 @@
+.Bg{
+  background-image: url('components/page/asset/Bg.svg');
+  background-size: 1366px 768px;
+  margin-top:-130px;
+  position: center center;
+  order: inherit;
+  height: 768px;
+  z-index:-1;
+}
+
+
+.MuiToolbar-root-40 > a > h6{
+  color: white;
+}
+
+.MuiButton-label-99{
+  color: white;
+}
+
+.MuiButton-label-45{
+  color: white;
+  text-decoration: inherit;
+}
+
+
+
+.ui.segment{
+  display: inline-block;
+}
+
+.ui.stackable.two.column.grid{
+  display: flex;
+  margin-top: 1%;
+}
+
+.ui.inverted.segment{
+  width:100%;
+}
+
+.ui.inverted.pointing.secondary.menu{
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  width:100%;
+}
+
+.ui.fluid.container{
+  text-align:center;
+  display: inline-block;
+}
+
+.bungkusContact{
+  padding-top:3%;
+}
+
+
+#form-textarea-control-opinion{
+  width: 40vm;
+  resize: none;
+}
+
+.ui.buttons{
+  display: flex;
+  position: relative;
+  margin-top: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.ui.buttons .button{
+  margin:10px 10px 10px 10px;
+}
+
+.ui.form .field{
+  clear: none;
+  width:380px;
+}
+
+
+
